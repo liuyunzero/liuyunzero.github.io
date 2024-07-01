@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Liu Yun
-name: Liu Yun
+title: 'Liu Yun'
 # Website URL
 baseURL: 'https://liuyunzero.github.io'
 
